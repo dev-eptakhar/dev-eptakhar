@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dev-eptakhar
+- 👀 I’m interested in MERN stack
+- 🌱 I’m currently learning Reajct
+- 📫 How to reach me, mail: dev.eptakhar@gmail.com
